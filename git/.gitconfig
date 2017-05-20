@@ -1,0 +1,23 @@
+[alias]
+	co = checkout
+	cp = cherry-pick
+	st = status
+[user]
+	name = Carl Licata
+	email = cjlicata@gmail.com
+	signingkey = 2A693576
+[branch]
+	autosetuprebase = always
+[push]
+	default = current
+[core]
+	ignorecase = false
+[commit]
+	gpgsign = true
+[tag]
+	gpgsign = true
+[filter "lfs"]
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+	clean = git-lfs clean -- %f
