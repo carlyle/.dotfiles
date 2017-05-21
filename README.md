@@ -8,6 +8,7 @@ To create/update the current links, just run `./setup.sh`
 
  * `brew`
  * `git`
+ * `git-lfs`
  * `gpg`
  * `nvm`
  * `oh-my-zsh`
