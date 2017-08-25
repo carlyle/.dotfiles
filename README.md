@@ -29,6 +29,18 @@ brew install macvim
 * Install [`nvm`](https://github.com/creationix/nvm)
 * Install [`direnv`](https://github.com/direnv/direnv)
 
+## .dotfiles
+
+* Clone this repository
+```
+git clone https://github.com/carlyle/.dotfiles ~/.dotfiles
+```
+* Link .dotfiles
+```
+cd ~/.dotfiles
+./setup.sh
+```
+
 ## GPG/Yubikey
 
 * Install [GPG Tools](https://gpgtools.org/)
