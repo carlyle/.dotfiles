@@ -7,7 +7,7 @@ To create/update the current links, just run `./setup.sh`
 ## Initial Setup
 
 * Install [Hyper](https://hyper.is/)
-* Install [Atom](https://atom.io/)
+* Install [VS Code](https://code.visualstudio.com/)
 * Install the latest macOS updates
 ```
 sudo softwareupdate --install --all
