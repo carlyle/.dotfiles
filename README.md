@@ -6,7 +6,7 @@ To create/update the current links, just run `./setup.sh`
 
 ## Initial Setup
 
-* Install [iTerm 2](https://www.iterm2.com/)
+* Install [Hyper](https://hyper.is/)
 * Install [Atom](https://atom.io/)
 * Install the latest macOS updates
 ```
