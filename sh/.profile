@@ -15,6 +15,9 @@ export PATH="$PATH:$ANDROID_HOME/platform-tools"
 ## Tools
 #
 
+# direnv
+eval "$(direnv hook zsh)"
+
 # Editor
 export EDITOR="/usr/bin/vim"
 

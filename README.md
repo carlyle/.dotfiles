@@ -27,6 +27,7 @@ brew install macvim
 ```
 * Install [`oh-my-zsh`](https://github.com/robbyrussell/oh-my-zsh)
 * Install [`nvm`](https://github.com/creationix/nvm)
+* Install [`direnv`](https://github.com/direnv/direnv)
 
 ## GPG/Yubikey
 
