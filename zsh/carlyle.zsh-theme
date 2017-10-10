@@ -1,4 +1,4 @@
-if [ $HYPER="true" ];
+if [ "${HYPER}" = "true" ];
 then
   PROMPT='%{$fg[green]%}%~%{$reset_color%} '
 else
