@@ -38,6 +38,11 @@ if [ -e ~/.profile ]; then
 fi
 ln -s ~/.dotfiles/sh/.profile ~/.profile
 
+if [ -e ~/.profile--flm ]; then
+  rm ~/.profile--flm
+fi
+ln -s ~/.dotfiles/sh/.profile--flm ~/.profile--flm
+
 
 ###
 ## ssh
