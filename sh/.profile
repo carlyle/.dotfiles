@@ -31,11 +31,3 @@ source ~/.dotfiles/gpg/gpg-init-ssh.sh
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && source "$NVM_DIR/nvm.sh"
 source ~/.dotfiles/nvm/nvm-auto-use.sh
-
-
-###
-## Additional config
-#
-
-# FLM
-source ~/.dotfiles/sh/.profile--flm
