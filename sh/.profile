@@ -22,6 +22,7 @@ eval "$(direnv hook zsh)"
 export EDITOR="/usr/bin/vim"
 
 # Git
+alias gti="git"
 alias gap="git add --patch"
 
 # GPG/SSH

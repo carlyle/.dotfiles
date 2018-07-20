@@ -21,3 +21,7 @@
 	process = git-lfs filter-process
 	required = true
 	clean = git-lfs clean -- %f
+[gui]
+	recentrepo = /Users/carl/Code/firstlookmedia/fund-journalism
+[help]
+	autocomplete = true
