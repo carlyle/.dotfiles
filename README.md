@@ -6,7 +6,6 @@ To create/update the current links, just run `./setup.sh`
 
 ## Initial Setup
 
-* Install [Hyper](https://hyper.is/)
 * Install [VS Code](https://code.visualstudio.com/)
 * Install the latest macOS updates
 ```
@@ -44,4 +43,3 @@ cd ~/.dotfiles
 ## GPG/Yubikey
 
 * Install [GPG Tools](https://gpgtools.org/)
-* Set up Yubikey
